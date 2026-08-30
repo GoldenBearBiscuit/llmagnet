@@ -1,0 +1,16 @@
+[project]
+name = "llmagnet"
+version = "0.0.1"
+description = "LLMagnet — 可编译、可进化的隐空间 Agent 框架(输入 LLM+agent,输出隐空间 agent)"
+requires-python = ">=3.11"
+dependencies = []  # 依赖按 pass 逐步引入:-O1 需 torch/transformers,-O3 需 agent-lightning,感知需 Mage
+
+[project.optional-dependencies]
+o1 = ["torch>=2.4", "transformers>=4.46"]
+o2 = ["accelerate"]
+o3 = ["agent-lightning"]
+robotics = ["lerobot"]
+
+[tool.llmagnet]
+default_level = "O0"
+# 编译优化等级: O0 文本基线 / O1 CoT→隐循环 / O2 fork 工具I/O / O3 端到端RL

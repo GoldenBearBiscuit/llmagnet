@@ -1,0 +1,2332 @@
+{
+ "products": {
+  "无线鼠标": {
+   "price": 49,
+   "category": "家具"
+  },
+  "机械键盘": {
+   "price": 249,
+   "category": "外设"
+  },
+  "升降桌": {
+   "price": 499,
+   "category": "外设"
+  },
+  "显示器支架": {
+   "price": 299,
+   "category": "出行"
+  },
+  "USB-C 扩展坞": {
+   "price": 129,
+   "category": "出行"
+  },
+  "降噪耳机": {
+   "price": 159,
+   "category": "外设"
+  },
+  "电动水杯": {
+   "price": 99,
+   "category": "数码"
+  },
+  "桌面加湿器": {
+   "price": 399,
+   "category": "出行"
+  },
+  "笔记本支架": {
+   "price": 499,
+   "category": "出行"
+  },
+  "无线充电板": {
+   "price": 159,
+   "category": "出行"
+  },
+  "蓝牙音箱": {
+   "price": 299,
+   "category": "出行"
+  },
+  "摄像头遮光罩": {
+   "price": 79,
+   "category": "出行"
+  },
+  "人体工学椅": {
+   "price": 129,
+   "category": "家具"
+  },
+  "桌面理线器": {
+   "price": 499,
+   "category": "家具"
+  },
+  "4K 显示器": {
+   "price": 79,
+   "category": "家电"
+  },
+  "便携打印机": {
+   "price": 99,
+   "category": "家电"
+  },
+  "指纹密码锁": {
+   "price": 79,
+   "category": "家具"
+  },
+  "智能台灯": {
+   "price": 129,
+   "category": "家电"
+  },
+  "空气炸锅": {
+   "price": 59,
+   "category": "外设"
+  },
+  "破壁机": {
+   "price": 399,
+   "category": "家具"
+  },
+  "扫地机器人": {
+   "price": 99,
+   "category": "数码"
+  },
+  "加湿器滤芯": {
+   "price": 79,
+   "category": "家电"
+  },
+  "咖啡手磨": {
+   "price": 249,
+   "category": "家具"
+  },
+  "保温饭盒": {
+   "price": 249,
+   "category": "数码"
+  },
+  "瑜伽垫": {
+   "price": 159,
+   "category": "出行"
+  },
+  "筋膜枪": {
+   "price": 59,
+   "category": "家电"
+  },
+  "露营灯": {
+   "price": 49,
+   "category": "出行"
+  },
+  "折叠桌椅": {
+   "price": 249,
+   "category": "家具"
+  },
+  "车载支架": {
+   "price": 299,
+   "category": "外设"
+  },
+  "行车记录仪": {
+   "price": 79,
+   "category": "外设"
+  },
+  "电热毯": {
+   "price": 699,
+   "category": "家具"
+  },
+  "挂烫机": {
+   "price": 129,
+   "category": "家电"
+  },
+  "电子墨水屏": {
+   "price": 129,
+   "category": "家具"
+  },
+  "桌面粉碎机": {
+   "price": 399,
+   "category": "出行"
+  },
+  "铁观音茶叶": {
+   "price": 159,
+   "category": "外设"
+  },
+  "落地灯": {
+   "price": 399,
+   "category": "家具"
+  },
+  "电煮锅": {
+   "price": 49,
+   "category": "家具"
+  },
+  "颈椎按摩仪": {
+   "price": 49,
+   "category": "数码"
+  },
+  "折叠购物车": {
+   "price": 79,
+   "category": "家电"
+  },
+  "防蓝光眼镜": {
+   "price": 49,
+   "category": "出行"
+  }
+ },
+ "coupons": {
+  "CPN001": {
+   "percent_off": 10,
+   "min_spend": 100
+  },
+  "CPN002": {
+   "percent_off": 10,
+   "min_spend": 500
+  },
+  "CPN003": {
+   "percent_off": 5,
+   "min_spend": 300
+  },
+  "CPN004": {
+   "percent_off": 20,
+   "min_spend": 100
+  },
+  "CPN005": {
+   "percent_off": 15,
+   "min_spend": 300
+  },
+  "CPN006": {
+   "percent_off": 10,
+   "min_spend": 200
+  },
+  "CPN007": {
+   "percent_off": 15,
+   "min_spend": 100
+  },
+  "CPN008": {
+   "percent_off": 10,
+   "min_spend": 300
+  },
+  "CPN009": {
+   "percent_off": 5,
+   "min_spend": 500
+  },
+  "CPN010": {
+   "percent_off": 5,
+   "min_spend": 200
+  },
+  "CPN011": {
+   "percent_off": 10,
+   "min_spend": 200
+  },
+  "CPN012": {
+   "percent_off": 20,
+   "min_spend": 100
+  },
+  "CPN013": {
+   "percent_off": 5,
+   "min_spend": 300
+  },
+  "CPN014": {
+   "percent_off": 5,
+   "min_spend": 300
+  },
+  "CPN015": {
+   "percent_off": 20,
+   "min_spend": 100
+  },
+  "CPN016": {
+   "percent_off": 10,
+   "min_spend": 200
+  },
+  "CPN017": {
+   "percent_off": 5,
+   "min_spend": 500
+  },
+  "CPN018": {
+   "percent_off": 20,
+   "min_spend": 100
+  },
+  "CPN019": {
+   "percent_off": 5,
+   "min_spend": 100
+  },
+  "CPN020": {
+   "percent_off": 15,
+   "min_spend": 200
+  },
+  "CPN021": {
+   "percent_off": 20,
+   "min_spend": 500
+  },
+  "CPN022": {
+   "percent_off": 20,
+   "min_spend": 200
+  },
+  "CPN023": {
+   "percent_off": 20,
+   "min_spend": 500
+  },
+  "CPN024": {
+   "percent_off": 15,
+   "min_spend": 300
+  }
+ },
+ "orders": {
+  "SO-0001": {
+   "product": "破壁机",
+   "qty": 1,
+   "coupon": "CPN014"
+  },
+  "SO-0002": {
+   "product": "挂烫机",
+   "qty": 7,
+   "coupon": "CPN001"
+  },
+  "SO-0003": {
+   "product": "折叠购物车",
+   "qty": 8,
+   "coupon": "CPN016"
+  },
+  "SO-0004": {
+   "product": "桌面粉碎机",
+   "qty": 8,
+   "coupon": "CPN013"
+  },
+  "SO-0005": {
+   "product": "机械键盘",
+   "qty": 6,
+   "coupon": "CPN020"
+  },
+  "SO-0006": {
+   "product": "破壁机",
+   "qty": 5,
+   "coupon": "CPN006"
+  },
+  "SO-0007": {
+   "product": "加湿器滤芯",
+   "qty": 8,
+   "coupon": "CPN009"
+  },
+  "SO-0008": {
+   "product": "行车记录仪",
+   "qty": 1,
+   "coupon": "CPN010"
+  },
+  "SO-0009": {
+   "product": "显示器支架",
+   "qty": 4,
+   "coupon": "CPN023"
+  },
+  "SO-0010": {
+   "product": "智能台灯",
+   "qty": 4,
+   "coupon": "CPN008"
+  },
+  "SO-0011": {
+   "product": "扫地机器人",
+   "qty": 4,
+   "coupon": "CPN021"
+  },
+  "SO-0012": {
+   "product": "瑜伽垫",
+   "qty": 4,
+   "coupon": "CPN008"
+  },
+  "SO-0013": {
+   "product": "颈椎按摩仪",
+   "qty": 5,
+   "coupon": "CPN019"
+  },
+  "SO-0014": {
+   "product": "筋膜枪",
+   "qty": 1,
+   "coupon": "CPN011"
+  },
+  "SO-0015": {
+   "product": "蓝牙音箱",
+   "qty": 3,
+   "coupon": "CPN011"
+  },
+  "SO-0016": {
+   "product": "电动水杯",
+   "qty": 7,
+   "coupon": "CPN006"
+  },
+  "SO-0017": {
+   "product": "桌面粉碎机",
+   "qty": 8,
+   "coupon": "CPN009"
+  },
+  "SO-0018": {
+   "product": "颈椎按摩仪",
+   "qty": 4,
+   "coupon": "CPN016"
+  },
+  "SO-0019": {
+   "product": "扫地机器人",
+   "qty": 1,
+   "coupon": "CPN001"
+  },
+  "SO-0020": {
+   "product": "露营灯",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0021": {
+   "product": "保温饭盒",
+   "qty": 6,
+   "coupon": "CPN005"
+  },
+  "SO-0022": {
+   "product": "电热毯",
+   "qty": 8,
+   "coupon": "CPN004"
+  },
+  "SO-0023": {
+   "product": "指纹密码锁",
+   "qty": 3,
+   "coupon": "CPN022"
+  },
+  "SO-0024": {
+   "product": "摄像头遮光罩",
+   "qty": 7,
+   "coupon": "CPN015"
+  },
+  "SO-0025": {
+   "product": "落地灯",
+   "qty": 9,
+   "coupon": "CPN003"
+  },
+  "SO-0026": {
+   "product": "电热毯",
+   "qty": 9,
+   "coupon": "CPN024"
+  },
+  "SO-0027": {
+   "product": "人体工学椅",
+   "qty": 6,
+   "coupon": "CPN006"
+  },
+  "SO-0028": {
+   "product": "咖啡手磨",
+   "qty": 6,
+   "coupon": "CPN017"
+  },
+  "SO-0029": {
+   "product": "防蓝光眼镜",
+   "qty": 1,
+   "coupon": "CPN022"
+  },
+  "SO-0030": {
+   "product": "加湿器滤芯",
+   "qty": 6,
+   "coupon": "CPN004"
+  },
+  "SO-0031": {
+   "product": "铁观音茶叶",
+   "qty": 8,
+   "coupon": "CPN007"
+  },
+  "SO-0032": {
+   "product": "咖啡手磨",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0033": {
+   "product": "防蓝光眼镜",
+   "qty": 4,
+   "coupon": "CPN017"
+  },
+  "SO-0034": {
+   "product": "扫地机器人",
+   "qty": 3,
+   "coupon": "CPN008"
+  },
+  "SO-0035": {
+   "product": "加湿器滤芯",
+   "qty": 7,
+   "coupon": "CPN003"
+  },
+  "SO-0036": {
+   "product": "智能台灯",
+   "qty": 3,
+   "coupon": "CPN004"
+  },
+  "SO-0037": {
+   "product": "瑜伽垫",
+   "qty": 4,
+   "coupon": "CPN014"
+  },
+  "SO-0038": {
+   "product": "行车记录仪",
+   "qty": 7,
+   "coupon": "CPN014"
+  },
+  "SO-0039": {
+   "product": "露营灯",
+   "qty": 4,
+   "coupon": "CPN020"
+  },
+  "SO-0040": {
+   "product": "加湿器滤芯",
+   "qty": 5,
+   "coupon": "CPN008"
+  },
+  "SO-0041": {
+   "product": "机械键盘",
+   "qty": 1,
+   "coupon": null
+  },
+  "SO-0042": {
+   "product": "破壁机",
+   "qty": 8,
+   "coupon": "CPN022"
+  },
+  "SO-0043": {
+   "product": "人体工学椅",
+   "qty": 4,
+   "coupon": "CPN018"
+  },
+  "SO-0044": {
+   "product": "桌面粉碎机",
+   "qty": 4,
+   "coupon": "CPN011"
+  },
+  "SO-0045": {
+   "product": "加湿器滤芯",
+   "qty": 1,
+   "coupon": "CPN009"
+  },
+  "SO-0046": {
+   "product": "电子墨水屏",
+   "qty": 4,
+   "coupon": "CPN006"
+  },
+  "SO-0047": {
+   "product": "指纹密码锁",
+   "qty": 9,
+   "coupon": "CPN015"
+  },
+  "SO-0048": {
+   "product": "指纹密码锁",
+   "qty": 4,
+   "coupon": "CPN016"
+  },
+  "SO-0049": {
+   "product": "USB-C 扩展坞",
+   "qty": 5,
+   "coupon": "CPN012"
+  },
+  "SO-0050": {
+   "product": "加湿器滤芯",
+   "qty": 7,
+   "coupon": "CPN015"
+  },
+  "SO-0051": {
+   "product": "智能台灯",
+   "qty": 1,
+   "coupon": "CPN024"
+  },
+  "SO-0052": {
+   "product": "瑜伽垫",
+   "qty": 2,
+   "coupon": "CPN021"
+  },
+  "SO-0053": {
+   "product": "机械键盘",
+   "qty": 8,
+   "coupon": "CPN005"
+  },
+  "SO-0054": {
+   "product": "摄像头遮光罩",
+   "qty": 5,
+   "coupon": "CPN012"
+  },
+  "SO-0055": {
+   "product": "空气炸锅",
+   "qty": 2,
+   "coupon": "CPN009"
+  },
+  "SO-0056": {
+   "product": "车载支架",
+   "qty": 7,
+   "coupon": "CPN003"
+  },
+  "SO-0057": {
+   "product": "加湿器滤芯",
+   "qty": 2,
+   "coupon": "CPN024"
+  },
+  "SO-0058": {
+   "product": "USB-C 扩展坞",
+   "qty": 1,
+   "coupon": "CPN017"
+  },
+  "SO-0059": {
+   "product": "降噪耳机",
+   "qty": 5,
+   "coupon": "CPN024"
+  },
+  "SO-0060": {
+   "product": "颈椎按摩仪",
+   "qty": 7,
+   "coupon": "CPN021"
+  },
+  "SO-0061": {
+   "product": "智能台灯",
+   "qty": 9,
+   "coupon": "CPN012"
+  },
+  "SO-0062": {
+   "product": "升降桌",
+   "qty": 1,
+   "coupon": "CPN011"
+  },
+  "SO-0063": {
+   "product": "折叠购物车",
+   "qty": 7,
+   "coupon": "CPN024"
+  },
+  "SO-0064": {
+   "product": "折叠桌椅",
+   "qty": 8,
+   "coupon": "CPN016"
+  },
+  "SO-0065": {
+   "product": "加湿器滤芯",
+   "qty": 9,
+   "coupon": "CPN015"
+  },
+  "SO-0066": {
+   "product": "USB-C 扩展坞",
+   "qty": 7,
+   "coupon": "CPN019"
+  },
+  "SO-0067": {
+   "product": "桌面粉碎机",
+   "qty": 7,
+   "coupon": "CPN005"
+  },
+  "SO-0068": {
+   "product": "显示器支架",
+   "qty": 8,
+   "coupon": "CPN014"
+  },
+  "SO-0069": {
+   "product": "桌面加湿器",
+   "qty": 3,
+   "coupon": "CPN011"
+  },
+  "SO-0070": {
+   "product": "行车记录仪",
+   "qty": 9,
+   "coupon": "CPN020"
+  },
+  "SO-0071": {
+   "product": "智能台灯",
+   "qty": 1,
+   "coupon": "CPN006"
+  },
+  "SO-0072": {
+   "product": "显示器支架",
+   "qty": 2,
+   "coupon": "CPN024"
+  },
+  "SO-0073": {
+   "product": "电热毯",
+   "qty": 6,
+   "coupon": "CPN005"
+  },
+  "SO-0074": {
+   "product": "桌面理线器",
+   "qty": 9,
+   "coupon": "CPN013"
+  },
+  "SO-0075": {
+   "product": "无线鼠标",
+   "qty": 1,
+   "coupon": "CPN005"
+  },
+  "SO-0076": {
+   "product": "空气炸锅",
+   "qty": 4,
+   "coupon": "CPN013"
+  },
+  "SO-0077": {
+   "product": "落地灯",
+   "qty": 1,
+   "coupon": "CPN024"
+  },
+  "SO-0078": {
+   "product": "蓝牙音箱",
+   "qty": 7,
+   "coupon": "CPN002"
+  },
+  "SO-0079": {
+   "product": "加湿器滤芯",
+   "qty": 7,
+   "coupon": "CPN012"
+  },
+  "SO-0080": {
+   "product": "车载支架",
+   "qty": 8,
+   "coupon": "CPN017"
+  },
+  "SO-0081": {
+   "product": "降噪耳机",
+   "qty": 8,
+   "coupon": "CPN015"
+  },
+  "SO-0082": {
+   "product": "降噪耳机",
+   "qty": 5,
+   "coupon": "CPN023"
+  },
+  "SO-0083": {
+   "product": "桌面理线器",
+   "qty": 8,
+   "coupon": "CPN011"
+  },
+  "SO-0084": {
+   "product": "保温饭盒",
+   "qty": 1,
+   "coupon": "CPN018"
+  },
+  "SO-0085": {
+   "product": "4K 显示器",
+   "qty": 2,
+   "coupon": "CPN011"
+  },
+  "SO-0086": {
+   "product": "桌面粉碎机",
+   "qty": 1,
+   "coupon": "CPN007"
+  },
+  "SO-0087": {
+   "product": "蓝牙音箱",
+   "qty": 9,
+   "coupon": "CPN006"
+  },
+  "SO-0088": {
+   "product": "瑜伽垫",
+   "qty": 5,
+   "coupon": "CPN006"
+  },
+  "SO-0089": {
+   "product": "露营灯",
+   "qty": 9,
+   "coupon": "CPN008"
+  },
+  "SO-0090": {
+   "product": "瑜伽垫",
+   "qty": 1,
+   "coupon": "CPN011"
+  },
+  "SO-0091": {
+   "product": "电子墨水屏",
+   "qty": 3,
+   "coupon": "CPN023"
+  },
+  "SO-0092": {
+   "product": "电子墨水屏",
+   "qty": 4,
+   "coupon": "CPN014"
+  },
+  "SO-0093": {
+   "product": "电煮锅",
+   "qty": 3,
+   "coupon": "CPN012"
+  },
+  "SO-0094": {
+   "product": "无线鼠标",
+   "qty": 8,
+   "coupon": "CPN024"
+  },
+  "SO-0095": {
+   "product": "人体工学椅",
+   "qty": 9,
+   "coupon": "CPN003"
+  },
+  "SO-0096": {
+   "product": "颈椎按摩仪",
+   "qty": 7,
+   "coupon": "CPN024"
+  },
+  "SO-0097": {
+   "product": "落地灯",
+   "qty": 1,
+   "coupon": "CPN013"
+  },
+  "SO-0098": {
+   "product": "铁观音茶叶",
+   "qty": 8,
+   "coupon": "CPN017"
+  },
+  "SO-0099": {
+   "product": "加湿器滤芯",
+   "qty": 6,
+   "coupon": "CPN009"
+  },
+  "SO-0100": {
+   "product": "智能台灯",
+   "qty": 8,
+   "coupon": "CPN007"
+  },
+  "SO-0101": {
+   "product": "桌面理线器",
+   "qty": 8,
+   "coupon": "CPN019"
+  },
+  "SO-0102": {
+   "product": "筋膜枪",
+   "qty": 6,
+   "coupon": "CPN011"
+  },
+  "SO-0103": {
+   "product": "机械键盘",
+   "qty": 7,
+   "coupon": "CPN015"
+  },
+  "SO-0104": {
+   "product": "人体工学椅",
+   "qty": 5,
+   "coupon": "CPN011"
+  },
+  "SO-0105": {
+   "product": "升降桌",
+   "qty": 9,
+   "coupon": "CPN004"
+  },
+  "SO-0106": {
+   "product": "4K 显示器",
+   "qty": 2,
+   "coupon": "CPN005"
+  },
+  "SO-0107": {
+   "product": "破壁机",
+   "qty": 6,
+   "coupon": "CPN013"
+  },
+  "SO-0108": {
+   "product": "显示器支架",
+   "qty": 7,
+   "coupon": "CPN009"
+  },
+  "SO-0109": {
+   "product": "电动水杯",
+   "qty": 3,
+   "coupon": "CPN021"
+  },
+  "SO-0110": {
+   "product": "空气炸锅",
+   "qty": 3,
+   "coupon": "CPN011"
+  },
+  "SO-0111": {
+   "product": "瑜伽垫",
+   "qty": 8,
+   "coupon": "CPN013"
+  },
+  "SO-0112": {
+   "product": "加湿器滤芯",
+   "qty": 3,
+   "coupon": "CPN017"
+  },
+  "SO-0113": {
+   "product": "折叠桌椅",
+   "qty": 9,
+   "coupon": "CPN004"
+  },
+  "SO-0114": {
+   "product": "露营灯",
+   "qty": 8,
+   "coupon": "CPN017"
+  },
+  "SO-0115": {
+   "product": "瑜伽垫",
+   "qty": 8,
+   "coupon": "CPN012"
+  },
+  "SO-0116": {
+   "product": "车载支架",
+   "qty": 2,
+   "coupon": "CPN017"
+  },
+  "SO-0117": {
+   "product": "扫地机器人",
+   "qty": 9,
+   "coupon": "CPN014"
+  },
+  "SO-0118": {
+   "product": "电动水杯",
+   "qty": 5,
+   "coupon": "CPN002"
+  },
+  "SO-0119": {
+   "product": "折叠桌椅",
+   "qty": 7,
+   "coupon": "CPN020"
+  },
+  "SO-0120": {
+   "product": "挂烫机",
+   "qty": 4,
+   "coupon": "CPN013"
+  },
+  "SO-0121": {
+   "product": "露营灯",
+   "qty": 6,
+   "coupon": "CPN011"
+  },
+  "SO-0122": {
+   "product": "铁观音茶叶",
+   "qty": 1,
+   "coupon": "CPN022"
+  },
+  "SO-0123": {
+   "product": "桌面加湿器",
+   "qty": 4,
+   "coupon": "CPN019"
+  },
+  "SO-0124": {
+   "product": "摄像头遮光罩",
+   "qty": 6,
+   "coupon": "CPN004"
+  },
+  "SO-0125": {
+   "product": "破壁机",
+   "qty": 3,
+   "coupon": "CPN001"
+  },
+  "SO-0126": {
+   "product": "人体工学椅",
+   "qty": 3,
+   "coupon": "CPN009"
+  },
+  "SO-0127": {
+   "product": "挂烫机",
+   "qty": 4,
+   "coupon": "CPN002"
+  },
+  "SO-0128": {
+   "product": "落地灯",
+   "qty": 6,
+   "coupon": "CPN001"
+  },
+  "SO-0129": {
+   "product": "笔记本支架",
+   "qty": 3,
+   "coupon": "CPN012"
+  },
+  "SO-0130": {
+   "product": "指纹密码锁",
+   "qty": 3,
+   "coupon": "CPN002"
+  },
+  "SO-0131": {
+   "product": "露营灯",
+   "qty": 5,
+   "coupon": "CPN014"
+  },
+  "SO-0132": {
+   "product": "降噪耳机",
+   "qty": 4,
+   "coupon": "CPN004"
+  },
+  "SO-0133": {
+   "product": "保温饭盒",
+   "qty": 3,
+   "coupon": "CPN019"
+  },
+  "SO-0134": {
+   "product": "无线鼠标",
+   "qty": 7,
+   "coupon": "CPN014"
+  },
+  "SO-0135": {
+   "product": "USB-C 扩展坞",
+   "qty": 2,
+   "coupon": "CPN004"
+  },
+  "SO-0136": {
+   "product": "摄像头遮光罩",
+   "qty": 3,
+   "coupon": "CPN003"
+  },
+  "SO-0137": {
+   "product": "降噪耳机",
+   "qty": 9,
+   "coupon": "CPN021"
+  },
+  "SO-0138": {
+   "product": "指纹密码锁",
+   "qty": 7,
+   "coupon": "CPN018"
+  },
+  "SO-0139": {
+   "product": "USB-C 扩展坞",
+   "qty": 1,
+   "coupon": "CPN003"
+  },
+  "SO-0140": {
+   "product": "破壁机",
+   "qty": 2,
+   "coupon": "CPN001"
+  },
+  "SO-0141": {
+   "product": "桌面加湿器",
+   "qty": 2,
+   "coupon": "CPN021"
+  },
+  "SO-0142": {
+   "product": "铁观音茶叶",
+   "qty": 5,
+   "coupon": "CPN021"
+  },
+  "SO-0143": {
+   "product": "铁观音茶叶",
+   "qty": 9,
+   "coupon": "CPN014"
+  },
+  "SO-0144": {
+   "product": "电子墨水屏",
+   "qty": 7,
+   "coupon": "CPN022"
+  },
+  "SO-0145": {
+   "product": "机械键盘",
+   "qty": 8,
+   "coupon": "CPN021"
+  },
+  "SO-0146": {
+   "product": "桌面粉碎机",
+   "qty": 8,
+   "coupon": "CPN008"
+  },
+  "SO-0147": {
+   "product": "摄像头遮光罩",
+   "qty": 5,
+   "coupon": "CPN019"
+  },
+  "SO-0148": {
+   "product": "瑜伽垫",
+   "qty": 2,
+   "coupon": "CPN013"
+  },
+  "SO-0149": {
+   "product": "颈椎按摩仪",
+   "qty": 7,
+   "coupon": "CPN023"
+  },
+  "SO-0150": {
+   "product": "指纹密码锁",
+   "qty": 7,
+   "coupon": "CPN011"
+  },
+  "SO-0151": {
+   "product": "电动水杯",
+   "qty": 2,
+   "coupon": "CPN020"
+  },
+  "SO-0152": {
+   "product": "筋膜枪",
+   "qty": 7,
+   "coupon": "CPN014"
+  },
+  "SO-0153": {
+   "product": "折叠购物车",
+   "qty": 8,
+   "coupon": "CPN002"
+  },
+  "SO-0154": {
+   "product": "桌面加湿器",
+   "qty": 2,
+   "coupon": "CPN024"
+  },
+  "SO-0155": {
+   "product": "加湿器滤芯",
+   "qty": 3,
+   "coupon": "CPN008"
+  },
+  "SO-0156": {
+   "product": "机械键盘",
+   "qty": 4,
+   "coupon": "CPN007"
+  },
+  "SO-0157": {
+   "product": "破壁机",
+   "qty": 3,
+   "coupon": "CPN002"
+  },
+  "SO-0158": {
+   "product": "挂烫机",
+   "qty": 5,
+   "coupon": "CPN013"
+  },
+  "SO-0159": {
+   "product": "笔记本支架",
+   "qty": 7,
+   "coupon": "CPN019"
+  },
+  "SO-0160": {
+   "product": "保温饭盒",
+   "qty": 6,
+   "coupon": "CPN011"
+  },
+  "SO-0161": {
+   "product": "降噪耳机",
+   "qty": 2,
+   "coupon": "CPN003"
+  },
+  "SO-0162": {
+   "product": "铁观音茶叶",
+   "qty": 2,
+   "coupon": "CPN011"
+  },
+  "SO-0163": {
+   "product": "落地灯",
+   "qty": 8,
+   "coupon": "CPN004"
+  },
+  "SO-0164": {
+   "product": "挂烫机",
+   "qty": 7,
+   "coupon": "CPN012"
+  },
+  "SO-0165": {
+   "product": "折叠购物车",
+   "qty": 5,
+   "coupon": "CPN009"
+  },
+  "SO-0166": {
+   "product": "折叠购物车",
+   "qty": 7,
+   "coupon": "CPN018"
+  },
+  "SO-0167": {
+   "product": "防蓝光眼镜",
+   "qty": 8,
+   "coupon": "CPN004"
+  },
+  "SO-0168": {
+   "product": "桌面加湿器",
+   "qty": 1,
+   "coupon": "CPN019"
+  },
+  "SO-0169": {
+   "product": "笔记本支架",
+   "qty": 4,
+   "coupon": "CPN005"
+  },
+  "SO-0170": {
+   "product": "降噪耳机",
+   "qty": 7,
+   "coupon": "CPN015"
+  },
+  "SO-0171": {
+   "product": "折叠购物车",
+   "qty": 9,
+   "coupon": "CPN010"
+  },
+  "SO-0172": {
+   "product": "颈椎按摩仪",
+   "qty": 7,
+   "coupon": "CPN004"
+  },
+  "SO-0173": {
+   "product": "电煮锅",
+   "qty": 4,
+   "coupon": "CPN011"
+  },
+  "SO-0174": {
+   "product": "保温饭盒",
+   "qty": 6,
+   "coupon": "CPN012"
+  },
+  "SO-0175": {
+   "product": "颈椎按摩仪",
+   "qty": 3,
+   "coupon": "CPN015"
+  },
+  "SO-0176": {
+   "product": "电煮锅",
+   "qty": 4,
+   "coupon": "CPN023"
+  },
+  "SO-0177": {
+   "product": "摄像头遮光罩",
+   "qty": 4,
+   "coupon": "CPN024"
+  },
+  "SO-0178": {
+   "product": "露营灯",
+   "qty": 6,
+   "coupon": "CPN008"
+  },
+  "SO-0179": {
+   "product": "保温饭盒",
+   "qty": 5,
+   "coupon": "CPN017"
+  },
+  "SO-0180": {
+   "product": "加湿器滤芯",
+   "qty": 5,
+   "coupon": "CPN017"
+  },
+  "SO-0181": {
+   "product": "电热毯",
+   "qty": 7,
+   "coupon": "CPN011"
+  },
+  "SO-0182": {
+   "product": "人体工学椅",
+   "qty": 2,
+   "coupon": "CPN021"
+  },
+  "SO-0183": {
+   "product": "落地灯",
+   "qty": 5,
+   "coupon": "CPN010"
+  },
+  "SO-0184": {
+   "product": "电煮锅",
+   "qty": 1,
+   "coupon": "CPN015"
+  },
+  "SO-0185": {
+   "product": "USB-C 扩展坞",
+   "qty": 3,
+   "coupon": "CPN003"
+  },
+  "SO-0186": {
+   "product": "扫地机器人",
+   "qty": 6,
+   "coupon": "CPN017"
+  },
+  "SO-0187": {
+   "product": "行车记录仪",
+   "qty": 6,
+   "coupon": "CPN007"
+  },
+  "SO-0188": {
+   "product": "颈椎按摩仪",
+   "qty": 9,
+   "coupon": "CPN014"
+  },
+  "SO-0189": {
+   "product": "空气炸锅",
+   "qty": 9,
+   "coupon": "CPN004"
+  },
+  "SO-0190": {
+   "product": "筋膜枪",
+   "qty": 7,
+   "coupon": "CPN019"
+  },
+  "SO-0191": {
+   "product": "加湿器滤芯",
+   "qty": 4,
+   "coupon": "CPN017"
+  },
+  "SO-0192": {
+   "product": "破壁机",
+   "qty": 2,
+   "coupon": "CPN004"
+  },
+  "SO-0193": {
+   "product": "防蓝光眼镜",
+   "qty": 3,
+   "coupon": "CPN007"
+  },
+  "SO-0194": {
+   "product": "笔记本支架",
+   "qty": 1,
+   "coupon": "CPN006"
+  },
+  "SO-0195": {
+   "product": "破壁机",
+   "qty": 1,
+   "coupon": "CPN024"
+  },
+  "SO-0196": {
+   "product": "显示器支架",
+   "qty": 6,
+   "coupon": "CPN006"
+  },
+  "SO-0197": {
+   "product": "露营灯",
+   "qty": 5,
+   "coupon": "CPN012"
+  },
+  "SO-0198": {
+   "product": "USB-C 扩展坞",
+   "qty": 8,
+   "coupon": "CPN020"
+  },
+  "SO-0199": {
+   "product": "筋膜枪",
+   "qty": 8,
+   "coupon": "CPN015"
+  },
+  "SO-0200": {
+   "product": "人体工学椅",
+   "qty": 4,
+   "coupon": "CPN024"
+  },
+  "SO-0201": {
+   "product": "人体工学椅",
+   "qty": 1,
+   "coupon": "CPN012"
+  },
+  "SO-0202": {
+   "product": "颈椎按摩仪",
+   "qty": 5,
+   "coupon": "CPN013"
+  },
+  "SO-0203": {
+   "product": "USB-C 扩展坞",
+   "qty": 1,
+   "coupon": "CPN017"
+  },
+  "SO-0204": {
+   "product": "空气炸锅",
+   "qty": 9,
+   "coupon": "CPN020"
+  },
+  "SO-0205": {
+   "product": "铁观音茶叶",
+   "qty": 7,
+   "coupon": "CPN022"
+  },
+  "SO-0206": {
+   "product": "筋膜枪",
+   "qty": 2,
+   "coupon": "CPN006"
+  },
+  "SO-0207": {
+   "product": "折叠购物车",
+   "qty": 8,
+   "coupon": "CPN016"
+  },
+  "SO-0208": {
+   "product": "降噪耳机",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0209": {
+   "product": "咖啡手磨",
+   "qty": 5,
+   "coupon": "CPN014"
+  },
+  "SO-0210": {
+   "product": "铁观音茶叶",
+   "qty": 1,
+   "coupon": null
+  },
+  "SO-0211": {
+   "product": "USB-C 扩展坞",
+   "qty": 8,
+   "coupon": "CPN003"
+  },
+  "SO-0212": {
+   "product": "无线充电板",
+   "qty": 6,
+   "coupon": "CPN011"
+  },
+  "SO-0213": {
+   "product": "挂烫机",
+   "qty": 2,
+   "coupon": "CPN012"
+  },
+  "SO-0214": {
+   "product": "落地灯",
+   "qty": 2,
+   "coupon": "CPN005"
+  },
+  "SO-0215": {
+   "product": "露营灯",
+   "qty": 7,
+   "coupon": "CPN019"
+  },
+  "SO-0216": {
+   "product": "机械键盘",
+   "qty": 7,
+   "coupon": "CPN023"
+  },
+  "SO-0217": {
+   "product": "筋膜枪",
+   "qty": 5,
+   "coupon": "CPN019"
+  },
+  "SO-0218": {
+   "product": "露营灯",
+   "qty": 5,
+   "coupon": "CPN002"
+  },
+  "SO-0219": {
+   "product": "扫地机器人",
+   "qty": 5,
+   "coupon": "CPN005"
+  },
+  "SO-0220": {
+   "product": "摄像头遮光罩",
+   "qty": 1,
+   "coupon": "CPN014"
+  },
+  "SO-0221": {
+   "product": "USB-C 扩展坞",
+   "qty": 5,
+   "coupon": "CPN020"
+  },
+  "SO-0222": {
+   "product": "桌面粉碎机",
+   "qty": 1,
+   "coupon": "CPN023"
+  },
+  "SO-0223": {
+   "product": "升降桌",
+   "qty": 6,
+   "coupon": "CPN014"
+  },
+  "SO-0224": {
+   "product": "车载支架",
+   "qty": 3,
+   "coupon": "CPN024"
+  },
+  "SO-0225": {
+   "product": "车载支架",
+   "qty": 7,
+   "coupon": "CPN018"
+  },
+  "SO-0226": {
+   "product": "显示器支架",
+   "qty": 1,
+   "coupon": "CPN001"
+  },
+  "SO-0227": {
+   "product": "4K 显示器",
+   "qty": 2,
+   "coupon": "CPN002"
+  },
+  "SO-0228": {
+   "product": "笔记本支架",
+   "qty": 4,
+   "coupon": "CPN022"
+  },
+  "SO-0229": {
+   "product": "行车记录仪",
+   "qty": 7,
+   "coupon": "CPN021"
+  },
+  "SO-0230": {
+   "product": "电煮锅",
+   "qty": 5,
+   "coupon": "CPN014"
+  },
+  "SO-0231": {
+   "product": "4K 显示器",
+   "qty": 4,
+   "coupon": "CPN024"
+  },
+  "SO-0232": {
+   "product": "智能台灯",
+   "qty": 7,
+   "coupon": "CPN003"
+  },
+  "SO-0233": {
+   "product": "4K 显示器",
+   "qty": 3,
+   "coupon": "CPN023"
+  },
+  "SO-0234": {
+   "product": "机械键盘",
+   "qty": 2,
+   "coupon": "CPN004"
+  },
+  "SO-0235": {
+   "product": "便携打印机",
+   "qty": 1,
+   "coupon": "CPN011"
+  },
+  "SO-0236": {
+   "product": "颈椎按摩仪",
+   "qty": 7,
+   "coupon": "CPN019"
+  },
+  "SO-0237": {
+   "product": "摄像头遮光罩",
+   "qty": 3,
+   "coupon": "CPN021"
+  },
+  "SO-0238": {
+   "product": "显示器支架",
+   "qty": 3,
+   "coupon": null
+  },
+  "SO-0239": {
+   "product": "机械键盘",
+   "qty": 4,
+   "coupon": "CPN019"
+  },
+  "SO-0240": {
+   "product": "铁观音茶叶",
+   "qty": 4,
+   "coupon": "CPN023"
+  },
+  "SO-0241": {
+   "product": "咖啡手磨",
+   "qty": 6,
+   "coupon": "CPN016"
+  },
+  "SO-0242": {
+   "product": "咖啡手磨",
+   "qty": 5,
+   "coupon": "CPN016"
+  },
+  "SO-0243": {
+   "product": "4K 显示器",
+   "qty": 4,
+   "coupon": "CPN011"
+  },
+  "SO-0244": {
+   "product": "无线充电板",
+   "qty": 1,
+   "coupon": "CPN020"
+  },
+  "SO-0245": {
+   "product": "折叠购物车",
+   "qty": 1,
+   "coupon": "CPN022"
+  },
+  "SO-0246": {
+   "product": "破壁机",
+   "qty": 6,
+   "coupon": "CPN013"
+  },
+  "SO-0247": {
+   "product": "颈椎按摩仪",
+   "qty": 1,
+   "coupon": null
+  },
+  "SO-0248": {
+   "product": "瑜伽垫",
+   "qty": 1,
+   "coupon": "CPN002"
+  },
+  "SO-0249": {
+   "product": "USB-C 扩展坞",
+   "qty": 3,
+   "coupon": "CPN006"
+  },
+  "SO-0250": {
+   "product": "桌面粉碎机",
+   "qty": 7,
+   "coupon": "CPN001"
+  },
+  "SO-0251": {
+   "product": "升降桌",
+   "qty": 5,
+   "coupon": "CPN023"
+  },
+  "SO-0252": {
+   "product": "扫地机器人",
+   "qty": 3,
+   "coupon": "CPN010"
+  },
+  "SO-0253": {
+   "product": "露营灯",
+   "qty": 8,
+   "coupon": "CPN024"
+  },
+  "SO-0254": {
+   "product": "露营灯",
+   "qty": 5,
+   "coupon": "CPN016"
+  },
+  "SO-0255": {
+   "product": "电子墨水屏",
+   "qty": 9,
+   "coupon": "CPN008"
+  },
+  "SO-0256": {
+   "product": "USB-C 扩展坞",
+   "qty": 9,
+   "coupon": "CPN004"
+  },
+  "SO-0257": {
+   "product": "笔记本支架",
+   "qty": 5,
+   "coupon": "CPN004"
+  },
+  "SO-0258": {
+   "product": "折叠桌椅",
+   "qty": 1,
+   "coupon": "CPN020"
+  },
+  "SO-0259": {
+   "product": "筋膜枪",
+   "qty": 6,
+   "coupon": "CPN002"
+  },
+  "SO-0260": {
+   "product": "显示器支架",
+   "qty": 1,
+   "coupon": "CPN019"
+  },
+  "SO-0261": {
+   "product": "笔记本支架",
+   "qty": 1,
+   "coupon": "CPN001"
+  },
+  "SO-0262": {
+   "product": "指纹密码锁",
+   "qty": 8,
+   "coupon": "CPN024"
+  },
+  "SO-0263": {
+   "product": "桌面理线器",
+   "qty": 6,
+   "coupon": "CPN022"
+  },
+  "SO-0264": {
+   "product": "电煮锅",
+   "qty": 1,
+   "coupon": "CPN019"
+  },
+  "SO-0265": {
+   "product": "指纹密码锁",
+   "qty": 9,
+   "coupon": "CPN014"
+  },
+  "SO-0266": {
+   "product": "电煮锅",
+   "qty": 7,
+   "coupon": "CPN011"
+  },
+  "SO-0267": {
+   "product": "笔记本支架",
+   "qty": 3,
+   "coupon": "CPN016"
+  },
+  "SO-0268": {
+   "product": "瑜伽垫",
+   "qty": 4,
+   "coupon": "CPN010"
+  },
+  "SO-0269": {
+   "product": "电子墨水屏",
+   "qty": 9,
+   "coupon": "CPN009"
+  },
+  "SO-0270": {
+   "product": "智能台灯",
+   "qty": 9,
+   "coupon": "CPN024"
+  },
+  "SO-0271": {
+   "product": "铁观音茶叶",
+   "qty": 7,
+   "coupon": "CPN005"
+  },
+  "SO-0272": {
+   "product": "桌面加湿器",
+   "qty": 2,
+   "coupon": "CPN011"
+  },
+  "SO-0273": {
+   "product": "瑜伽垫",
+   "qty": 5,
+   "coupon": "CPN005"
+  },
+  "SO-0274": {
+   "product": "落地灯",
+   "qty": 5,
+   "coupon": "CPN019"
+  },
+  "SO-0275": {
+   "product": "桌面加湿器",
+   "qty": 7,
+   "coupon": "CPN002"
+  },
+  "SO-0276": {
+   "product": "降噪耳机",
+   "qty": 7,
+   "coupon": "CPN024"
+  },
+  "SO-0277": {
+   "product": "笔记本支架",
+   "qty": 5,
+   "coupon": "CPN009"
+  },
+  "SO-0278": {
+   "product": "露营灯",
+   "qty": 7,
+   "coupon": "CPN017"
+  },
+  "SO-0279": {
+   "product": "筋膜枪",
+   "qty": 9,
+   "coupon": "CPN002"
+  },
+  "SO-0280": {
+   "product": "桌面加湿器",
+   "qty": 1,
+   "coupon": "CPN002"
+  },
+  "SO-0281": {
+   "product": "空气炸锅",
+   "qty": 2,
+   "coupon": "CPN016"
+  },
+  "SO-0282": {
+   "product": "露营灯",
+   "qty": 3,
+   "coupon": "CPN021"
+  },
+  "SO-0283": {
+   "product": "咖啡手磨",
+   "qty": 9,
+   "coupon": "CPN010"
+  },
+  "SO-0284": {
+   "product": "4K 显示器",
+   "qty": 6,
+   "coupon": "CPN001"
+  },
+  "SO-0285": {
+   "product": "笔记本支架",
+   "qty": 3,
+   "coupon": "CPN009"
+  },
+  "SO-0286": {
+   "product": "破壁机",
+   "qty": 1,
+   "coupon": "CPN004"
+  },
+  "SO-0287": {
+   "product": "笔记本支架",
+   "qty": 4,
+   "coupon": "CPN022"
+  },
+  "SO-0288": {
+   "product": "无线充电板",
+   "qty": 9,
+   "coupon": "CPN014"
+  },
+  "SO-0289": {
+   "product": "筋膜枪",
+   "qty": 2,
+   "coupon": "CPN014"
+  },
+  "SO-0290": {
+   "product": "电热毯",
+   "qty": 9,
+   "coupon": "CPN009"
+  },
+  "SO-0291": {
+   "product": "扫地机器人",
+   "qty": 9,
+   "coupon": "CPN006"
+  },
+  "SO-0292": {
+   "product": "保温饭盒",
+   "qty": 3,
+   "coupon": "CPN012"
+  },
+  "SO-0293": {
+   "product": "4K 显示器",
+   "qty": 3,
+   "coupon": "CPN008"
+  },
+  "SO-0294": {
+   "product": "落地灯",
+   "qty": 4,
+   "coupon": "CPN008"
+  },
+  "SO-0295": {
+   "product": "筋膜枪",
+   "qty": 8,
+   "coupon": "CPN024"
+  },
+  "SO-0296": {
+   "product": "破壁机",
+   "qty": 4,
+   "coupon": "CPN022"
+  },
+  "SO-0297": {
+   "product": "人体工学椅",
+   "qty": 4,
+   "coupon": "CPN014"
+  },
+  "SO-0298": {
+   "product": "破壁机",
+   "qty": 6,
+   "coupon": "CPN017"
+  },
+  "SO-0299": {
+   "product": "折叠桌椅",
+   "qty": 9,
+   "coupon": "CPN012"
+  },
+  "SO-0300": {
+   "product": "蓝牙音箱",
+   "qty": 1,
+   "coupon": "CPN009"
+  },
+  "SO-0301": {
+   "product": "防蓝光眼镜",
+   "qty": 1,
+   "coupon": "CPN013"
+  },
+  "SO-0302": {
+   "product": "蓝牙音箱",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0303": {
+   "product": "指纹密码锁",
+   "qty": 2,
+   "coupon": "CPN018"
+  },
+  "SO-0304": {
+   "product": "显示器支架",
+   "qty": 4,
+   "coupon": "CPN020"
+  },
+  "SO-0305": {
+   "product": "空气炸锅",
+   "qty": 2,
+   "coupon": "CPN022"
+  },
+  "SO-0306": {
+   "product": "蓝牙音箱",
+   "qty": 5,
+   "coupon": "CPN005"
+  },
+  "SO-0307": {
+   "product": "人体工学椅",
+   "qty": 9,
+   "coupon": "CPN013"
+  },
+  "SO-0308": {
+   "product": "保温饭盒",
+   "qty": 7,
+   "coupon": "CPN016"
+  },
+  "SO-0309": {
+   "product": "升降桌",
+   "qty": 1,
+   "coupon": "CPN005"
+  },
+  "SO-0310": {
+   "product": "4K 显示器",
+   "qty": 2,
+   "coupon": "CPN013"
+  },
+  "SO-0311": {
+   "product": "防蓝光眼镜",
+   "qty": 5,
+   "coupon": "CPN023"
+  },
+  "SO-0312": {
+   "product": "显示器支架",
+   "qty": 2,
+   "coupon": "CPN006"
+  },
+  "SO-0313": {
+   "product": "蓝牙音箱",
+   "qty": 3,
+   "coupon": "CPN014"
+  },
+  "SO-0314": {
+   "product": "机械键盘",
+   "qty": 8,
+   "coupon": "CPN006"
+  },
+  "SO-0315": {
+   "product": "筋膜枪",
+   "qty": 5,
+   "coupon": "CPN015"
+  },
+  "SO-0316": {
+   "product": "电动水杯",
+   "qty": 4,
+   "coupon": "CPN021"
+  },
+  "SO-0317": {
+   "product": "显示器支架",
+   "qty": 4,
+   "coupon": null
+  },
+  "SO-0318": {
+   "product": "指纹密码锁",
+   "qty": 9,
+   "coupon": "CPN010"
+  },
+  "SO-0319": {
+   "product": "车载支架",
+   "qty": 3,
+   "coupon": "CPN002"
+  },
+  "SO-0320": {
+   "product": "无线鼠标",
+   "qty": 9,
+   "coupon": "CPN005"
+  },
+  "SO-0321": {
+   "product": "桌面理线器",
+   "qty": 1,
+   "coupon": "CPN014"
+  },
+  "SO-0322": {
+   "product": "摄像头遮光罩",
+   "qty": 1,
+   "coupon": "CPN014"
+  },
+  "SO-0323": {
+   "product": "无线鼠标",
+   "qty": 9,
+   "coupon": "CPN023"
+  },
+  "SO-0324": {
+   "product": "空气炸锅",
+   "qty": 4,
+   "coupon": "CPN007"
+  },
+  "SO-0325": {
+   "product": "咖啡手磨",
+   "qty": 8,
+   "coupon": "CPN024"
+  },
+  "SO-0326": {
+   "product": "折叠桌椅",
+   "qty": 4,
+   "coupon": "CPN012"
+  },
+  "SO-0327": {
+   "product": "电动水杯",
+   "qty": 8,
+   "coupon": "CPN020"
+  },
+  "SO-0328": {
+   "product": "升降桌",
+   "qty": 8,
+   "coupon": null
+  },
+  "SO-0329": {
+   "product": "蓝牙音箱",
+   "qty": 6,
+   "coupon": "CPN018"
+  },
+  "SO-0330": {
+   "product": "车载支架",
+   "qty": 5,
+   "coupon": "CPN009"
+  },
+  "SO-0331": {
+   "product": "便携打印机",
+   "qty": 5,
+   "coupon": "CPN018"
+  },
+  "SO-0332": {
+   "product": "机械键盘",
+   "qty": 3,
+   "coupon": "CPN024"
+  },
+  "SO-0333": {
+   "product": "降噪耳机",
+   "qty": 8,
+   "coupon": "CPN024"
+  },
+  "SO-0334": {
+   "product": "USB-C 扩展坞",
+   "qty": 8,
+   "coupon": "CPN018"
+  },
+  "SO-0335": {
+   "product": "桌面粉碎机",
+   "qty": 4,
+   "coupon": "CPN002"
+  },
+  "SO-0336": {
+   "product": "电煮锅",
+   "qty": 5,
+   "coupon": "CPN010"
+  },
+  "SO-0337": {
+   "product": "摄像头遮光罩",
+   "qty": 4,
+   "coupon": "CPN017"
+  },
+  "SO-0338": {
+   "product": "保温饭盒",
+   "qty": 9,
+   "coupon": "CPN007"
+  },
+  "SO-0339": {
+   "product": "防蓝光眼镜",
+   "qty": 4,
+   "coupon": "CPN022"
+  },
+  "SO-0340": {
+   "product": "无线鼠标",
+   "qty": 1,
+   "coupon": "CPN019"
+  },
+  "SO-0341": {
+   "product": "指纹密码锁",
+   "qty": 3,
+   "coupon": "CPN004"
+  },
+  "SO-0342": {
+   "product": "笔记本支架",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0343": {
+   "product": "桌面加湿器",
+   "qty": 3,
+   "coupon": "CPN015"
+  },
+  "SO-0344": {
+   "product": "电子墨水屏",
+   "qty": 7,
+   "coupon": "CPN016"
+  },
+  "SO-0345": {
+   "product": "颈椎按摩仪",
+   "qty": 5,
+   "coupon": "CPN017"
+  },
+  "SO-0346": {
+   "product": "咖啡手磨",
+   "qty": 5,
+   "coupon": "CPN002"
+  },
+  "SO-0347": {
+   "product": "笔记本支架",
+   "qty": 4,
+   "coupon": "CPN023"
+  },
+  "SO-0348": {
+   "product": "扫地机器人",
+   "qty": 5,
+   "coupon": null
+  },
+  "SO-0349": {
+   "product": "4K 显示器",
+   "qty": 7,
+   "coupon": "CPN007"
+  },
+  "SO-0350": {
+   "product": "折叠桌椅",
+   "qty": 5,
+   "coupon": "CPN021"
+  },
+  "SO-0351": {
+   "product": "筋膜枪",
+   "qty": 5,
+   "coupon": "CPN020"
+  },
+  "SO-0352": {
+   "product": "扫地机器人",
+   "qty": 8,
+   "coupon": "CPN019"
+  },
+  "SO-0353": {
+   "product": "4K 显示器",
+   "qty": 7,
+   "coupon": "CPN018"
+  },
+  "SO-0354": {
+   "product": "电动水杯",
+   "qty": 8,
+   "coupon": "CPN016"
+  },
+  "SO-0355": {
+   "product": "机械键盘",
+   "qty": 9,
+   "coupon": "CPN001"
+  },
+  "SO-0356": {
+   "product": "无线鼠标",
+   "qty": 6,
+   "coupon": null
+  },
+  "SO-0357": {
+   "product": "笔记本支架",
+   "qty": 8,
+   "coupon": "CPN006"
+  },
+  "SO-0358": {
+   "product": "无线充电板",
+   "qty": 8,
+   "coupon": "CPN004"
+  },
+  "SO-0359": {
+   "product": "瑜伽垫",
+   "qty": 3,
+   "coupon": "CPN009"
+  },
+  "SO-0360": {
+   "product": "筋膜枪",
+   "qty": 7,
+   "coupon": "CPN008"
+  },
+  "SO-0361": {
+   "product": "折叠桌椅",
+   "qty": 4,
+   "coupon": "CPN004"
+  },
+  "SO-0362": {
+   "product": "铁观音茶叶",
+   "qty": 9,
+   "coupon": "CPN011"
+  },
+  "SO-0363": {
+   "product": "保温饭盒",
+   "qty": 3,
+   "coupon": "CPN005"
+  },
+  "SO-0364": {
+   "product": "电煮锅",
+   "qty": 7,
+   "coupon": "CPN015"
+  },
+  "SO-0365": {
+   "product": "便携打印机",
+   "qty": 3,
+   "coupon": "CPN014"
+  },
+  "SO-0366": {
+   "product": "降噪耳机",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0367": {
+   "product": "扫地机器人",
+   "qty": 7,
+   "coupon": "CPN016"
+  },
+  "SO-0368": {
+   "product": "桌面理线器",
+   "qty": 3,
+   "coupon": "CPN003"
+  },
+  "SO-0369": {
+   "product": "行车记录仪",
+   "qty": 5,
+   "coupon": "CPN011"
+  },
+  "SO-0370": {
+   "product": "扫地机器人",
+   "qty": 6,
+   "coupon": "CPN003"
+  },
+  "SO-0371": {
+   "product": "指纹密码锁",
+   "qty": 6,
+   "coupon": "CPN002"
+  },
+  "SO-0372": {
+   "product": "折叠购物车",
+   "qty": 4,
+   "coupon": "CPN007"
+  },
+  "SO-0373": {
+   "product": "折叠桌椅",
+   "qty": 3,
+   "coupon": "CPN004"
+  },
+  "SO-0374": {
+   "product": "4K 显示器",
+   "qty": 6,
+   "coupon": "CPN018"
+  },
+  "SO-0375": {
+   "product": "电热毯",
+   "qty": 1,
+   "coupon": "CPN003"
+  },
+  "SO-0376": {
+   "product": "升降桌",
+   "qty": 5,
+   "coupon": "CPN022"
+  },
+  "SO-0377": {
+   "product": "智能台灯",
+   "qty": 5,
+   "coupon": "CPN022"
+  },
+  "SO-0378": {
+   "product": "落地灯",
+   "qty": 6,
+   "coupon": "CPN017"
+  },
+  "SO-0379": {
+   "product": "无线鼠标",
+   "qty": 3,
+   "coupon": "CPN002"
+  },
+  "SO-0380": {
+   "product": "折叠桌椅",
+   "qty": 4,
+   "coupon": "CPN016"
+  },
+  "SO-0381": {
+   "product": "电煮锅",
+   "qty": 3,
+   "coupon": "CPN011"
+  },
+  "SO-0382": {
+   "product": "人体工学椅",
+   "qty": 1,
+   "coupon": "CPN002"
+  },
+  "SO-0383": {
+   "product": "便携打印机",
+   "qty": 9,
+   "coupon": "CPN015"
+  },
+  "SO-0384": {
+   "product": "落地灯",
+   "qty": 6,
+   "coupon": "CPN003"
+  },
+  "SO-0385": {
+   "product": "破壁机",
+   "qty": 1,
+   "coupon": "CPN020"
+  },
+  "SO-0386": {
+   "product": "瑜伽垫",
+   "qty": 4,
+   "coupon": "CPN007"
+  },
+  "SO-0387": {
+   "product": "加湿器滤芯",
+   "qty": 5,
+   "coupon": "CPN006"
+  },
+  "SO-0388": {
+   "product": "瑜伽垫",
+   "qty": 1,
+   "coupon": "CPN006"
+  },
+  "SO-0389": {
+   "product": "桌面理线器",
+   "qty": 9,
+   "coupon": "CPN021"
+  },
+  "SO-0390": {
+   "product": "升降桌",
+   "qty": 9,
+   "coupon": "CPN013"
+  },
+  "SO-0391": {
+   "product": "空气炸锅",
+   "qty": 7,
+   "coupon": "CPN022"
+  },
+  "SO-0392": {
+   "product": "智能台灯",
+   "qty": 7,
+   "coupon": "CPN006"
+  },
+  "SO-0393": {
+   "product": "电热毯",
+   "qty": 2,
+   "coupon": "CPN017"
+  },
+  "SO-0394": {
+   "product": "车载支架",
+   "qty": 2,
+   "coupon": "CPN004"
+  },
+  "SO-0395": {
+   "product": "便携打印机",
+   "qty": 4,
+   "coupon": "CPN001"
+  },
+  "SO-0396": {
+   "product": "USB-C 扩展坞",
+   "qty": 2,
+   "coupon": "CPN017"
+  },
+  "SO-0397": {
+   "product": "保温饭盒",
+   "qty": 7,
+   "coupon": "CPN007"
+  },
+  "SO-0398": {
+   "product": "摄像头遮光罩",
+   "qty": 1,
+   "coupon": "CPN002"
+  },
+  "SO-0399": {
+   "product": "行车记录仪",
+   "qty": 5,
+   "coupon": "CPN009"
+  },
+  "SO-0400": {
+   "product": "行车记录仪",
+   "qty": 9,
+   "coupon": "CPN013"
+  }
+ },
+ "distances": {
+  "北京-上海": 1906,
+  "北京-广州": 410,
+  "北京-深圳": 725,
+  "北京-杭州": 709,
+  "北京-成都": 1285,
+  "北京-武汉": 1395,
+  "北京-西安": 1357,
+  "北京-南京": 1272,
+  "北京-重庆": 650,
+  "北京-天津": 1330,
+  "北京-苏州": 601,
+  "上海-广州": 1697,
+  "上海-深圳": 979,
+  "上海-杭州": 785,
+  "上海-成都": 1412,
+  "上海-武汉": 351,
+  "上海-西安": 374,
+  "上海-南京": 1205,
+  "上海-重庆": 1580,
+  "上海-天津": 944,
+  "上海-苏州": 1905,
+  "广州-深圳": 1466,
+  "广州-杭州": 1556,
+  "广州-成都": 1139,
+  "广州-武汉": 1874,
+  "广州-西安": 918,
+  "广州-南京": 741,
+  "广州-重庆": 821,
+  "广州-天津": 1542,
+  "广州-苏州": 1808,
+  "深圳-杭州": 419,
+  "深圳-成都": 1183,
+  "深圳-武汉": 391,
+  "深圳-西安": 599,
+  "深圳-南京": 946,
+  "深圳-重庆": 902,
+  "深圳-天津": 1709,
+  "深圳-苏州": 505,
+  "杭州-成都": 783,
+  "杭州-武汉": 1987,
+  "杭州-西安": 1275,
+  "杭州-南京": 354,
+  "杭州-重庆": 1039,
+  "杭州-天津": 1685,
+  "杭州-苏州": 1015,
+  "成都-武汉": 822,
+  "成都-西安": 1938,
+  "成都-南京": 850,
+  "成都-重庆": 1629,
+  "成都-天津": 1663,
+  "成都-苏州": 1933,
+  "武汉-西安": 531,
+  "武汉-南京": 1660,
+  "武汉-重庆": 937,
+  "武汉-天津": 1432,
+  "武汉-苏州": 652,
+  "西安-南京": 1370,
+  "西安-重庆": 1527,
+  "西安-天津": 1785,
+  "西安-苏州": 1764,
+  "南京-重庆": 1808,
+  "南京-天津": 873,
+  "南京-苏州": 1259,
+  "重庆-天津": 1187,
+  "重庆-苏州": 1577,
+  "天津-苏州": 552
+ }
+}

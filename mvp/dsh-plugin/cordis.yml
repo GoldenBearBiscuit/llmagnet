@@ -1,0 +1,33 @@
+# LLMagnet MVP 的 dsh 组合文件。
+# 由 deepseek-harness-sdk 的 DeepSeekHarness(cordis=本文件) 加载。
+#
+# 注意:dsh 处于开发者预览期,组合格式可能随版本调整。
+# 若报组合/包名错误,以仓库 examples/headless-agent/cordis.yml 为模板合并
+# (本机 D:\Project\dsh\examples\headless-agent\cordis.yml,上传机器对照)。
+
+- insert:
+    - id: mvp-tools
+      name: './src/mvp-tools.js'        # 相对本文件;kb 路径走环境变量 MVP_KB_PATH
+
+- insert:
+    - id: llm
+      name: '@deepseek-ai/dsh-llm-pi-ai'
+      config:
+        providers:
+          local-vllm:                    # 自定义 OpenAI 兼容 route → 机上 vLLM
+            apiKeyEnv: VLLM_API_KEY      # vLLM 不校验,运行前随意 export 一个
+            api: openai-completions
+            baseURL: http://127.0.0.1:8000/v1
+            compat:
+              supportsDeveloperRole: false
+              maxTokensField: max_tokens
+            models:
+              - id: Qwen2.5-1.5B-Instruct
+                contextWindow: 32768
+
+- insert:
+    - id: agent
+      name: '@deepseek-ai/dsh-agent-spine'
+      config:
+        provider: local-vllm
+        model: Qwen2.5-1.5B-Instruct

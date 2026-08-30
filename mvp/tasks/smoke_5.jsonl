@@ -1,0 +1,5 @@
+{"id": "sm-lp-000", "tag": "lookup", "instruction": "商品「加湿器滤芯」的单价是多少元?", "answer": "79", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "sm-lc-000", "tag": "lookup", "instruction": "优惠券 CPN010 的折扣是百分之几?(只回答数字)", "answer": "5", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "sm-calc-000", "tag": "arithmetic", "instruction": "请计算:89*27-23 = ?", "answer": "2380", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "sm-ld-000", "tag": "lookup", "instruction": "从广州到重庆的距离是多少公里?", "answer": "821", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "sm-ht-000", "tag": "twohop", "instruction": "订单 SO-0107 共购买6件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "2394.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}

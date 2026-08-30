@@ -1,0 +1,12 @@
+# 云机 Ubuntu 22.04 + PyTorch 2.8.0(预装,禁止升级/重装 torch)+ Python 3.12 + CUDA 12.8
+# 安装: pip install -r requirements.txt
+transformers>=4.57
+accelerate>=1.10
+# 模型服务(OpenAI 兼容端点,dsh 经 llm-pi-ai 指向它)
+vllm>=0.11
+# dsh Python SDK:驱动捆绑 runtime,机器无需安装 Node.js
+deepseek-harness-sdk
+# 后续阶段(Phase 1 蒸馏 / Phase 4 RFT+GRPO)再装也可
+peft>=0.17
+trl>=0.23
+datasets>=3.6

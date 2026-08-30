@@ -1,0 +1,50 @@
+{"id": "gd-hf-000", "tag": "twohop", "instruction": "从重庆到深圳的货运运费按每公里 0.5 元计,这趟运费是多少元?", "answer": "451.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-000", "tag": "twohop", "instruction": "订单 SO-0035 购买了7件商品,使用优惠券 CPN003 结算。请计算实付金额是多少元?(优惠券规则:满 300 元减 5%)", "answer": "525.35", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-001", "tag": "twohop", "instruction": "订单 SO-0225 购买了7件商品,使用优惠券 CPN018 结算。请计算实付金额是多少元?(优惠券规则:满 100 元减 20%)", "answer": "1674.4", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hf-001", "tag": "twohop", "instruction": "从成都到重庆的货运运费按每公里 0.5 元计,这趟运费是多少元?", "answer": "814.5", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-000", "tag": "lookup", "instruction": "订单 SO-0004 购买的商品名称是什么?", "answer": "桌面粉碎机", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-002", "tag": "twohop", "instruction": "订单 SO-0051 购买了1件商品,使用优惠券 CPN024 结算。请计算实付金额是多少元?(优惠券规则:满 300 元减 15%)", "answer": "129.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-000", "tag": "arithmetic", "instruction": "请计算:(65+6)*4 = ?", "answer": "284", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-001", "tag": "arithmetic", "instruction": "请计算:(98+3)*5 = ?", "answer": "505", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-002", "tag": "arithmetic", "instruction": "请计算:(12+4)*6 = ?", "answer": "96", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-003", "tag": "twohop", "instruction": "订单 SO-0062 购买了1件商品,使用优惠券 CPN011 结算。请计算实付金额是多少元?(优惠券规则:满 200 元减 10%)", "answer": "449.1", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-004", "tag": "twohop", "instruction": "订单 SO-0030 购买了6件商品,使用优惠券 CPN004 结算。请计算实付金额是多少元?(优惠券规则:满 100 元减 20%)", "answer": "379.2", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-003", "tag": "arithmetic", "instruction": "请计算:35*4-43 = ?", "answer": "97", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-004", "tag": "arithmetic", "instruction": "请计算:76*21-96 = ?", "answer": "1500", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-000", "tag": "twohop", "instruction": "订单 SO-0167 共购买8件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "392.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-005", "tag": "arithmetic", "instruction": "请计算:(32+7)*2 = ?", "answer": "78", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-001", "tag": "lookup", "instruction": "订单 SO-0226 购买的商品名称是什么?", "answer": "显示器支架", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hf-002", "tag": "twohop", "instruction": "从重庆到苏州的货运运费按每公里 0.5 元计,这趟运费是多少元?", "answer": "788.5", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-002", "tag": "lookup", "instruction": "订单 SO-0127 购买的商品名称是什么?", "answer": "挂烫机", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lp-000", "tag": "lookup", "instruction": "商品「露营灯」的单价是多少元?", "answer": "49", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-006", "tag": "arithmetic", "instruction": "请计算:69/3+33 = ?", "answer": "56", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-003", "tag": "lookup", "instruction": "订单 SO-0337 购买的商品名称是什么?", "answer": "摄像头遮光罩", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ld-000", "tag": "lookup", "instruction": "从南京到北京的距离是多少公里?", "answer": "1272", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-001", "tag": "twohop", "instruction": "订单 SO-0092 共购买4件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "516.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-004", "tag": "lookup", "instruction": "订单 SO-0029 购买的商品名称是什么?", "answer": "防蓝光眼镜", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lp-001", "tag": "lookup", "instruction": "商品「USB-C 扩展坞」的单价是多少元?", "answer": "129", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-002", "tag": "twohop", "instruction": "订单 SO-0304 共购买4件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "1196.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-003", "tag": "twohop", "instruction": "订单 SO-0181 共购买7件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "4893.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-005", "tag": "lookup", "instruction": "订单 SO-0221 购买的商品名称是什么?", "answer": "USB-C 扩展坞", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-007", "tag": "arithmetic", "instruction": "请计算:(45+8)*2 = ?", "answer": "106", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hf-003", "tag": "twohop", "instruction": "从深圳到南京的货运运费按每公里 0.5 元计,这趟运费是多少元?", "answer": "473.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-004", "tag": "twohop", "instruction": "订单 SO-0266 共购买7件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "343.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lc-000", "tag": "lookup", "instruction": "优惠券 CPN009 的折扣是百分之几?(只回答数字)", "answer": "5", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-005", "tag": "twohop", "instruction": "订单 SO-0382 共购买1件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "129.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ld-001", "tag": "lookup", "instruction": "从天津到苏州的距离是多少公里?", "answer": "552", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-008", "tag": "arithmetic", "instruction": "请计算:165/15+12 = ?", "answer": "23", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-005", "tag": "twohop", "instruction": "订单 SO-0291 购买了9件商品,使用优惠券 CPN006 结算。请计算实付金额是多少元?(优惠券规则:满 200 元减 10%)", "answer": "801.9", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-006", "tag": "twohop", "instruction": "订单 SO-0211 共购买8件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "1032.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-006", "tag": "twohop", "instruction": "订单 SO-0206 购买了2件商品,使用优惠券 CPN006 结算。请计算实付金额是多少元?(优惠券规则:满 200 元减 10%)", "answer": "118.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-009", "tag": "arithmetic", "instruction": "请计算:286/13+23 = ?", "answer": "45", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hf-004", "tag": "twohop", "instruction": "从武汉到重庆的货运运费按每公里 0.5 元计,这趟运费是多少元?", "answer": "468.5", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-006", "tag": "lookup", "instruction": "订单 SO-0151 购买的商品名称是什么?", "answer": "电动水杯", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hf-005", "tag": "twohop", "instruction": "从上海到南京的货运运费按每公里 0.5 元计,这趟运费是多少元?", "answer": "602.5", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-hc-007", "tag": "twohop", "instruction": "订单 SO-0220 购买了1件商品,使用优惠券 CPN014 结算。请计算实付金额是多少元?(优惠券规则:满 300 元减 5%)", "answer": "79.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-007", "tag": "twohop", "instruction": "订单 SO-0337 共购买4件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "316.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-010", "tag": "arithmetic", "instruction": "请计算:486/18+30 = ?", "answer": "57", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-calc-011", "tag": "arithmetic", "instruction": "请计算:23*26-56 = ?", "answer": "542", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ld-002", "tag": "lookup", "instruction": "从杭州到深圳的距离是多少公里?", "answer": "419", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-ht-008", "tag": "twohop", "instruction": "订单 SO-0207 共购买8件商品。请计算该订单的原始总价(单价×数量,不打折)是多少元?", "answer": "632.0", "answer_type": "number", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lo-007", "tag": "lookup", "instruction": "订单 SO-0261 购买的商品名称是什么?", "answer": "笔记本支架", "answer_type": "text", "tools": ["calculator", "kb_query"]}
+{"id": "gd-lp-002", "tag": "lookup", "instruction": "商品「颈椎按摩仪」的单价是多少元?", "answer": "49", "answer_type": "number", "tools": ["calculator", "kb_query"]}

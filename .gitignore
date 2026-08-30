@@ -1,0 +1,12 @@
+# 编译产物与重中间产物不进 git
+out/
+*.pt
+*.safetensors
+checkpoints/
+traces.jsonl
+*.tar.gz
+*.zip
+# 本地环境
+__pycache__/
+.venv/
+.pytest_cache/

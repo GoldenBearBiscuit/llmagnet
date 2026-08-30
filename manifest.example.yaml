@@ -1,0 +1,23 @@
+# ── LLMagnet manifest v0 ─────────────────────────────────────────────
+# 编译产物的能力边界声明。红线 #5:越界行为无保证。
+base_model: Qwen/Qwen3-8B            # 血统:哪个底模训出来的(升级=重编译)
+passes: []                           # 依次记录: O1_coconut / O2_fork / O3_rl
+tasks: []                            # 训练分布(通用性边界)
+tools: []                            # fork 解码头绑定的工具 schema 版本(MCP 原生)
+trigger_layer:                       # 三合一触发层
+  intent: auto                       # 工具意图门(隐状态线性可读,arXiv:2605.14038)
+  memory_readback: auto              # 记忆读回兼唤醒信号
+  halt: ponder                       # 停止判定(PonderNet 式可学停顿)
+safety:                              # 红线 #1:独立于一切学习组件
+  hard_layer: outside                # 急停/力矩/围栏在隐空间循环之外、更低于 S1
+  guardrails_compiled: false         # 永远 false
+anchor:                              # 红线 #2:外部锚不可自改
+  eval_set: null                     # 冻结金标集(版本化)
+  reward_fn_owner: human             # 奖励函数修改权:human only
+  canary_slices: []                  # 训练侧不可见的私有切片
+data:                                # 红线 #4
+  self_generated_max_ratio: 0.5      # 自产数据占比上限(防分布坍缩)
+  real_traffic_required: true        # 真实流量/物理反馈必须持续注入
+audit:
+  fork_log: required                 # fork 边界明文日志(红线 #3)
+  probes: []                         # 隐状态→可读报告 的探针清单
