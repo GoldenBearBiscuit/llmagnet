@@ -9,7 +9,8 @@
 2. `docs/CONVERSATION_LOG.md` — 22 轮对话完整纪要(每个结论的原始推理与文献链接)
 3. `mvp/PLAN.md` — MVP 实验方案(四假设/四阶段/预算)
 4. `mvp/RUNBOOK.md` — 云机部署执行手册(当前要执行的)
-5. `README.md` — 框架总体架构与目录说明
+5. `paper/OUTLINE.md` — 论文规划(投稿策略/贡献声明/图表清单);`paper/references.bib` 文献库
+6. `README.md` — 框架总体架构与目录说明
 
 ## 项目一句话
 
