@@ -56,13 +56,16 @@ python -c "import transformers, vllm, deepseek_harness; print('deps ok')"
 
 **验证**:三行命令都无报错。
 
-## 云机 ②:上传代码(本机执行;或用 AutoDL JupyterLab 网页拖拽)
+## 云机 ②:拉取代码(git)
 
 ```bash
-# 本机 Git Bash(端口/主机按 AutoDL 面板给的 SSH 信息替换)
-scp -rP <端口> /d/Project/llmagnet/mvp root@<host>:/root/autodl-tmp/llmagnet/
-scp -P <端口> /d/Project/dsh/examples/headless-agent/cordis.yml \
-    root@<host>:/root/autodl-tmp/llmagnet/dsh-ref-headless-cordis.yml
+# AutoDL 开 GitHub 加速;Gitee/国内网络可跳过这行
+source /etc/network_turbo 2>/dev/null
+git clone https://github.com/GoldenBearBiscuit/llmagnet.git /root/autodl-tmp/llmagnet
+unset http_proxy https_proxy 2>/dev/null
+
+# 私有仓库需一次性登录:Settings → Developer settings → PAT(token 勾 repo 权限),
+# clone 时用户名填 GitHub 用户名、密码贴 token。
 ```
 
 **验证**:云机 `ls /root/autodl-tmp/llmagnet/mvp` 能看到 harness/tasks/dsh-plugin。
@@ -97,8 +100,8 @@ curl -s http://127.0.0.1:8000/v1/models | head -c 300
 ```bash
 export MVP_KB_PATH=/root/autodl-tmp/llmagnet/mvp/tasks/kb.json   # 写进 ~/.bashrc
 # 组合格式核对:dsh 处于预览期,若步骤⑤冒烟报 cordis/包名错误,
-# 对比参考模板把 agent/llm 两行按真实格式修正:
-#   /root/autodl-tmp/llmagnet/dsh-ref-headless-cordis.yml(本机上传的官方示例)
+# 对比官方模板修正 cordis.yml(已随仓库带好):
+#   /root/autodl-tmp/llmagnet/mvp/dsh-plugin/reference-headless-cordis.yml
 ```
 
 ## 云机 ⑤:冒烟测试(~5 分钟,先别看成功率)
